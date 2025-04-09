@@ -1,1 +1,0 @@
-<Paste the full React component code from the canvas here>
