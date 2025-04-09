@@ -1,0 +1,1 @@
+export const ScrollArea = ({ children, className }: any) => <div className={className} style={{ overflowY: 'scroll' }}>{children}</div>;
