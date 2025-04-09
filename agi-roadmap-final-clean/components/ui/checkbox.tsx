@@ -1,0 +1,1 @@
+export const Checkbox = ({ checked, onCheckedChange }: any) => <input type='checkbox' checked={checked} onChange={onCheckedChange} />;
